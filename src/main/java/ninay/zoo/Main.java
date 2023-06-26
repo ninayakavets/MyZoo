@@ -1,9 +1,12 @@
-package main.java;
+package ninay.zoo;
 
-import main.java.Zoo.Birds.*;
-import main.java.Zoo.Fish.*;
-import main.java.Zoo.Mammals.*;
-import main.java.Zoo.*;
+import ninay.zoo.Birds.Owl;
+import ninay.zoo.Birds.Parrot;
+import ninay.zoo.Fish.Dolphin;
+import ninay.zoo.Fish.Shark;
+import ninay.zoo.Mammals.Bear;
+import ninay.zoo.Mammals.Leon;
+import ninay.zoo.Mammals.Monkey;
 
 import java.util.Scanner;
 

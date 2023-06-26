@@ -1,6 +1,6 @@
-package main.java.Zoo.Fish;
+package ninay.zoo.Fish;
 
-import main.java.Zoo.AbstractAnimal;
+import ninay.zoo.AbstractAnimal;
 
 public class BaseFish extends AbstractAnimal {
     public BaseFish(String name) {

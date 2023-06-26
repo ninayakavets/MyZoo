@@ -1,4 +1,4 @@
-package main.java.Zoo.Birds;
+package ninay.zoo.Birds;
 
 public class Owl extends BaseBird {
     public Owl(String name) {

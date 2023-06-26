@@ -1,5 +1,5 @@
-package main.java.Zoo.Mammals;
-import main.java.Zoo.AbstractAnimal;
+package ninay.zoo.Mammals;
+import ninay.zoo.AbstractAnimal;
 
 abstract public class BaseMammal extends AbstractAnimal {
 

@@ -1,4 +1,4 @@
-package main.java.Zoo.Mammals;
+package ninay.zoo.Mammals;
 
 public class Leon extends BaseMammal {
 

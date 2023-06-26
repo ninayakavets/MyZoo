@@ -1,4 +1,4 @@
-package main.java.Zoo.Fish;
+package ninay.zoo.Fish;
 
 public class Shark extends BaseFish {
     public Shark(String name) {

@@ -1,4 +1,4 @@
-package main.java.Zoo;
+package ninay.zoo;
 
 abstract public class AbstractAnimal {
 
