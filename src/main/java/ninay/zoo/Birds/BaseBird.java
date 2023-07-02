@@ -1,6 +1,6 @@
-package main.java.Zoo.Birds;
+package ninay.zoo.Birds;
 
-import main.java.Zoo.AbstractAnimal;
+import ninay.zoo.AbstractAnimal;
 
 public class BaseBird extends AbstractAnimal {
     public BaseBird(String name) {
